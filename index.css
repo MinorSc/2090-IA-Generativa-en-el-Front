@@ -65,6 +65,8 @@
 
 .ofertas {
     margin-bottom: 112px;
+    display: flex;
+    gap:40px;
 }
 
 .testimonios__titulo,
